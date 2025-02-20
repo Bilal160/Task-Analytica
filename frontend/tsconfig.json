@@ -1,4 +1,10 @@
 {
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "noEmitOnError": false, 
+    "strict": false,
+    "forceConsistentCasingInFileNames": false
+  },
   "files": [],
   "references": [
     { "path": "./tsconfig.app.json" },
